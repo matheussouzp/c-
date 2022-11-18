@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RxCRVWxeYbpm0N9QPa5DNLcQP0sX6IrMX4Kf12yl4OAPY9durdO+Gjc/qiqPlRi/hbttgp/tNvAokOtiQquPow==",
+  "dgSpecHash": "GQcixCQbsTX/Xk8jwcQM9ADLi7sV/nZjLwrPElbfJw8zjXjvOsDKwfQtF1FPAOhiYnO2fjp0cTo6aU1sh7/clg==",
   "success": true,
-  "projectFilePath": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Trabalho\\c-\\Trabalho C#\\Trabalho.csproj",
+  "projectFilePath": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Teste\\c-\\Trabalho C#\\Trabalho.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",

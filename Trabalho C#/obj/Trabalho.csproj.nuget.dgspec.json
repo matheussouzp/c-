@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Trabalho\\c-\\Trabalho C#\\Trabalho.csproj": {}
+    "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Teste\\c-\\Trabalho C#\\Trabalho.csproj": {}
   },
   "projects": {
-    "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Trabalho\\c-\\Trabalho C#\\Trabalho.csproj": {
+    "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Teste\\c-\\Trabalho C#\\Trabalho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Trabalho\\c-\\Trabalho C#\\Trabalho.csproj",
+        "projectUniqueName": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Teste\\c-\\Trabalho C#\\Trabalho.csproj",
         "projectName": "Trabalho",
-        "projectPath": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Trabalho\\c-\\Trabalho C#\\Trabalho.csproj",
+        "projectPath": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Teste\\c-\\Trabalho C#\\Trabalho.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Trabalho\\c-\\Trabalho C#\\obj\\",
+        "outputPath": "D:\\UP - 4\\DESENVOLVIMENTO DE SOFTWARE VISUAL\\Teste\\c-\\Trabalho C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
